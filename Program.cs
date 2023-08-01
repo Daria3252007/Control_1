@@ -39,4 +39,4 @@ void printA(string [] stringArray)
     Console.WriteLine("]");
 }
 array(stringArray);
-printA(symbol(stringArray) );
+printA(symbol(stringArray));
